@@ -1,6 +1,6 @@
 Hello everyone,
-Thanks for showing interest in this repo.
+Thanks for showing interest in this repository.
 
-Currently the repo consists of two file, which are Python_Theories.ipynb and Data_Structure_&_Algorithms.ipynb. The Python_Theories.ipynb contains all the basic concepts which a beginner need to start their programming journey, Also it help others to quick revisive the concepts. Futher updates will be introduce soon.
+Currently the repo consists of two file, the files are named as Python_Theories.ipynb and Data_Structure_&_Algorithms.ipynb. The Python_Theories.ipynb contains all the basic concepts and theories which a beginner needs to start his/her programming journey, Also it help others to quick revise the concepts. Futher updates will be introduce soon.
 
 Data_Structure_&_Algorithms.ipynb is not yet completed.
